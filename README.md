@@ -1,3 +1,4 @@
+Curso: Não concluido (ainda)
 Horas investidas ao final do curso: 58,5 horas
 
 Projetos com ES6, HTML5, CSS, Bootstrap, Node, e React.
